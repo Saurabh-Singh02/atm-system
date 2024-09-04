@@ -4,7 +4,6 @@
 #include<string.h>
 #include<dos.h>
 #include<stdlib.h>
-using namespace std:
 long amount=5000,deposit,withdraw;
 int choice,pin,k,c;
 char transaction='Y';
