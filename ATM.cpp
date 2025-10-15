@@ -10,7 +10,6 @@
 #include <iomanip>
 using namespace std;
 
-// Global variables
 long withdraw, deposit;
 
 struct Account {
