@@ -41,4 +41,5 @@ atm-system/
    git clone https://github.com/your-username/atm-system.git
    cd atm-system
    g++ -o atm atm.cpp
-```
+   ./atm
+
